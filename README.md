@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @24Beavis
 - 👀 I’m interested in web development 
-- 🌱 I’m currently learning ...Html,cos,java script and php
+- 🌱 I’m currently learning ...Html,css,java script and php
 - 💞️ I’m looking to collaborate on anything tech related
 - 📫 How to reach me beavismugala47@gmail.com 
 - 😄 Pronouns: ...
